@@ -30,10 +30,10 @@ CSS in JS<br>
 Contentful<br>
 Github (deployment)<br>
 
+## Matrialer
+
 ## Aflevering
 Aflevering torsdag d. 4 Juni. 
 Du har afleveret når din applikation er hostet på github pages og linket hertil er sat ind herunder.
 **Projekt url:** 
-
-## Matrialer
 

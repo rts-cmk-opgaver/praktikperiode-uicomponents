@@ -21,7 +21,7 @@ Opgavens formål er at opbygge en vis rutine og erfaring i de arbejdsgang som du
 
 ![Alt Text](https://github.com/rts-cmk-opgaver/praktikperiode-uicomponents/blob/master/giphy.gif)
 
-**Varighed**<br>
+## Varighed
 Du har 8 arbejdsdage til at løse opgaven.
 
 ## Applikation tech stack

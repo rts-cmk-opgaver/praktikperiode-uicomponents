@@ -33,6 +33,7 @@ Contentful<br>
 Github (deployment)<br>
 
 ## Matrialer
+Du skal downloade XD filen herfra: https://bit.ly/2Xkqsbm
 
 ## Aflevering
 Aflevering torsdag d. 4 Juni. 

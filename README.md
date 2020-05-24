@@ -3,8 +3,7 @@
 ## Opgavebeskrivelse
 
 I den kommende praktikperiode skal i arbejde med **React** og **Contenful**. Der skal udvikles en kollektion af UI komponenter.<br>
-Kompenterne skal udvikles i ReactJS og komponenternes indhold som ex. tekster, billeder etc. skal hostes på platformen contentful.<br>
-De færdige komponenterne skal præsenteres i en React applikation på samme måde som de også er præstenteret i design filen.
+Kompenterne skal udvikles i ReactJS og komponenternes indhold som ex. tekster, billeder etc. skal hostes på platformen contentful. De færdige komponenterne skal præsenteres i en React applikation på samme måde som de også er præstenteret i design filen.
 
 **Github**<br>
    1. Der **skal pushes dagligt**, så du har en backup online i tilfælde af computer nedbrud og andet. 

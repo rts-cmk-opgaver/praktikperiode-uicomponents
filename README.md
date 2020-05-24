@@ -1,7 +1,6 @@
 # praktikperiode-uicomponents
 
-
-<iframe src="https://giphy.com/embed/J2xkAW1E8kvyE" width="480" height="244" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/J2xkAW1E8kvyE">via GIPHY</a></p>
+![Wax on wax off](https://media.giphy.com/media/J2xkAW1E8kvyE/giphy.gif "Illustration af opgavens formål")
 
 ## Opgavebeskrivelse
 I den kommende praktikperiode skal i arbejde React og Contenful. Der skal udvikles en kollektion af UI komponenter. Kompenterne skal udvikles i ReactJS og komponenternes indhold som ex. tekster, billeder etc. skal hostes på platformen contentful. Komponenterne skal præsenteres i en React applikation på samme måde som de præstenteres i Adobe XD filen.

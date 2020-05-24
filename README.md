@@ -17,7 +17,7 @@ Ved første øjekast ligner flere komponenter hinanden, men det er ikke helt til
 Analysere komponenterne og gå herefter igang med at udvikle de komponenter der udgør sub-komponenter. Det er vigtigt at du sikre dig at enkelte "elementer" ikke udvikles mere end én gang! Går noget igen, er der *formentligt* et komponent...
 
 ## Formål
-Opgavens formål er at opbygge en vis rutine og erfaring i de arbejdsgang som du er blevet præsenteret for og har arbejdet med i sidste skoleperiode, og som er nødvendige for at arbejde effektivt. 
+Opgavens formål er at opbygge en vis rutine og erfaring i de arbejdsgang som du er blevet præsenteret for og har arbejdet med i sidste skoleperiode, og som er nødvendige for at arbejde effektivt eller med andre ord – smartere :)
 
 ![Alt Text](https://github.com/rts-cmk-opgaver/praktikperiode-uicomponents/blob/master/giphy.gif)
 

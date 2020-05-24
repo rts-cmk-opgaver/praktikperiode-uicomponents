@@ -21,14 +21,14 @@ Opgavens formål er at opbygge en vis rutine og erfaring i de arbejdsgang som du
 
 ![Alt Text](https://github.com/rts-cmk-opgaver/praktikperiode-uicomponents/blob/master/giphy.gif)
 
-**Varighed**
+**Varighed**<br>
 Du har 8 arbejdsdage til at løse opgaven.
 
 ## Applikation tech stack
-ReactJS
-CSS in JS
-Contentful
-Github (deployment)
+ReactJS<br>
+CSS in JS<br>
+Contentful<br>
+Github (deployment)<br>
 
 ## Aflevering
 Aflevering torsdag d. 4 Juni. 

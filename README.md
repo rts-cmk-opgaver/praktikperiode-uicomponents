@@ -15,7 +15,7 @@ De færdige komponenterne skal præsenteres i en React applikation på samme må
 **Komponenter**<br>
 Ved første øjekast ligner flere komponenter hinanden, men det er ikke helt tilfældet når man kikker lidt nærmere. Det kan være små forskelle som fx. farven på en overskrift som differentiere. Nogen komponenter er såkaldte sub-komponenter fordi de bruges inde i andre komponenter. Andre komponenter er interaktive fordi der er funktionakitet som "like", galleri eller view more integreret.
 
-**Start med at***
+**Start med at**
 Analysere komponenterne og gå herefter igang med at udvikle de komponenter der udgør sub-komponenter. Det er vigtigt at du sikre dig at enkelte "elementer" ikke udvikles mere end én gang!
 
 

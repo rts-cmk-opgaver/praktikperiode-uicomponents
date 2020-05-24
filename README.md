@@ -1,5 +1,7 @@
 # praktikperiode-uicomponents
 
+[](https://github.com/rts-cmk-opgaver/praktikperiode-uicomponents/blob/master/hero.jpg)
+
 ## Opgavebeskrivelse
 
 I den kommende praktikperiode skal i arbejde med **React** og **Contenful**. Der skal udvikles en kollektion af UI komponenter.<br>

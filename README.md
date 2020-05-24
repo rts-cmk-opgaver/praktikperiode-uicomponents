@@ -8,6 +8,7 @@ Ved første øjekast ligner flere komponenter hinanden, men det er ikke helt til
 
 ## Formål
 ![Alt Text](https://github.com/rts-cmk-opgaver/praktikperiode-uicomponents/blob/master/giphy.gif)
+<br>
 Opgavens formål er at opbygge en vis rutine og erfaring i de arbejdsgang som du er blevet præsenteret for i sidste skoleperiode, og som er nødvendige for at arbejde effektivt.
 
 ## Varighed

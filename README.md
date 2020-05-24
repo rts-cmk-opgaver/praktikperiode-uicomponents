@@ -1,4 +1,8 @@
 # praktikperiode-uicomponents
+## Formål
+Opgavens formål er at opbygge en vis rutine og erfaring i de arbejdsgang som du er blevet præsenteret for og har arbejdet med i sidste skoleperiode, og som er nødvendige for at arbejde effektivt. 
+
+![Alt Text](https://github.com/rts-cmk-opgaver/praktikperiode-uicomponents/blob/master/giphy.gif)
 
 ## Opgavebeskrivelse
 I den kommende praktikperiode skal i arbejde med **React** og **Contenful**. Der skal udvikles en kollektion af UI komponenter.<br>
@@ -7,14 +11,8 @@ De færdige komponenterne skal præsenteres i en React applikation på samme må
 
 **Komponenter**<br>
 Ved første øjekast ligner flere komponenter hinanden, men det er ikke helt tilfældet når man kikker lidt nærmere. Det kan være små forskelle som fx. farven på en overskrift som differentiere. Nogen komponenter er såkaldte sub-komponenter fordi de bruges inde i andre komponenter. Andre komponenter er interaktive fordi der er funktionakitet som "like", galleri eller view more integreret.<br>
-**Start med at...***
-Start med at analysere komponenterne og gå herefter igang med at udvikle de komponenter der udgør sub-komponenter. Det er vigtigt at du sikre dig at enkelte "elementer" ikke udvikles mere end én gang!
-
-## Formål
-Opgavens formål er at opbygge en vis rutine og erfaring i de arbejdsgang som du er blevet præsenteret for og har arbejdet med i sidste skoleperiode, og som er nødvendige for at arbejde effektivt. 
-
-
-![Alt Text](https://github.com/rts-cmk-opgaver/praktikperiode-uicomponents/blob/master/giphy.gif)
+**Start med at***
+Analysere komponenterne og gå herefter igang med at udvikle de komponenter der udgør sub-komponenter. Det er vigtigt at du sikre dig at enkelte "elementer" ikke udvikles mere end én gang!
 
 ## Varighed
 Du har 8 arbejdsdage til at løse opgaven.
